@@ -1,1 +1,102 @@
-//test
+ .social-links {
+  /*display: inline;*/
+  float:right;
+}
+
+#logo {
+  /*border: 2px solid orange;*/
+  /*display: inline;*/
+}
+
+#logo-pic {
+  /*border: 2px solid orange;*/
+  float: left;
+}
+
+#del {
+  /*border: 2px solid orange;*/
+  /*display: inline;*/
+  font-size: 40px;
+  font-family: 'Italianno', cursive;
+}
+
+#best {
+  /*border: 2px solid orange;*/
+  /*display: inline;*/
+  font-size: 8px;
+}
+
+main {
+  width: 901px;
+  margin: auto;
+}
+
+section {
+  margin: auto;
+}
+
+.para {
+  text-indent: 1em;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+}
+
+#list {
+  height: 300px;
+  background-image: url('img/list-bg.png')
+}
+
+#right {
+  float: right;
+  width: 350px;
+  padding: 43px;
+  padding-bottom: 0;
+  font-family: 'Pangolin', cursive;
+  font-size: 20px;
+}
+
+#left {
+  float:left;
+  width: 350px;
+  padding: 43px;
+  padding-bottom: 0;
+  font-family: 'Pangolin', cursive;
+  font-size: 20px;
+}
+
+span {
+  width: 901px;
+  /*display: block;*/
+  /*border: dash;*/
+  height: 3px;
+}
+
+#foot {
+  display: block;
+  width: 900px;
+}
+
+#van-pic {
+  /*border: dashed;*/
+  float:left;
+}
+
+button {
+  float: right;
+}
+
+footer {
+  display: inline;
+}
+
+p {
+  display: block;
+  /*border: dashed;*/
+}
+
+footer {
+  height: 100px;
+  display: inline;
+  text-align: center;
+}
